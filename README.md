@@ -1,4 +1,4 @@
 ARBoat
 ======
 
-ARBoat is an aproach to build an autonomous, swimming vehicle by using existing technologies.
+ARBoat is an aproach to build an autonomous, swimming vehicle by using existing technologies in low budget circumstances.
